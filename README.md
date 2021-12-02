@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning
 - 😄 Pronouns: he/his
 
-## I'm João Batista - programming lover graduating in Software engineering
+## I'm Diego Nogueira - programming lover graduating in Science of computer
 <div align="center">
-  <a href="https://github.com/joaobatista235">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobatista235&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatista235&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/DiegooNogueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegooNogueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegooNogueira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
