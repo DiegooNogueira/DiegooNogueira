@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
 - 😄 Pronouns: he/his
 
-## I'm Diego Nogueira - programming lover graduating in Science of computer
+## I'm Diego Nogueira - programming lover graduating in Computer science
 <div align="center">
   <a href="https://github.com/DiegooNogueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegooNogueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
