@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
-- 😄 Pronouns: he/his
 
 ## I'm Diego Nogueira - programming lover graduating in Computer science
 <div align="center">
