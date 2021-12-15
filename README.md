@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working
-- 🌱 I’m currently learning
-
 ## I'm Diego Nogueira - programming lover graduating in Computer science
 <div align="center">
   <a href="https://github.com/DiegooNogueira">
